@@ -1,0 +1,10 @@
+/build/
+/data/
+/test-data/
+/dz1_sem2
+/dz1_sem2.exe
+/tests
+/tests.exe
+*.bin
+*.tmp
+*.bak
