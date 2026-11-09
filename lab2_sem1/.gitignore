@@ -1,0 +1,10 @@
+/build*/
+*.pro.user*
+*.o
+moc_*.cpp
+.qmake.stash
+/Makefile*
+/lab2_sem1
+/lab2_sem1.app/
+/calculator_tests
+/calculator_tests.app/
